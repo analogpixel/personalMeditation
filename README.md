@@ -14,6 +14,7 @@ To use this program, you'll need:
 
 - Access to ChatGPT (v4 or higher recommended)
 - An API key from [Eleven Labs](https://beta.elevenlabs.io) (A free trial is sufficient for generating a few prompts)
+- your own backing track `backing_track.mp3` for the music that plays in the background
 
 ## Usage
 
