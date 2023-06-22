@@ -1,0 +1,58 @@
+meditation:
+  - description: Meditation for growing curiosity
+    duration: 5
+    section:
+      - name: START
+        time: 0
+          #play: chime.wav
+        play: backing_track.mp3
+        play_gain: -20 
+        option: pulse_60bpm
+
+      - name: Grounding
+        time: 0.1
+        play_gain: -10
+        say: | 
+          Begin by taking a moment to find a comfortable position. This could be sitting, standing, or lying down 
+          whatever feels right for you. Close your eyes, and bring your attention to your breath. Let it flow naturally, 
+          not trying to change it, just noticing how it moves in and out of your body. Feel the rhythm of your breath 
+          and let it anchor you in this moment.
+
+      - name: Body Awareness
+        time: 1.0
+        play_gain: -10
+        say: | 
+          Gradually move your attention to your body, starting at your toes and moving upwards. 
+          Notice any sensations you might be feeling – perhaps warmth, cold, tightness, or relaxation. As you observe these feelings, 
+          remind yourself that there's no need to judge or change anything. You're simply exploring what is present right now.
+
+      - name: Embracing Curiosity
+        time: 2.0
+        play_gain: -10
+        say: | 
+          Begin to imagine curiosity as a warm, welcoming light. Visualize it starting small, 
+          like a tiny spark within you. With each breath, let this spark of curiosity grow. 
+          See it as a warm, gentle light expanding within you, filling every part of your body.
+
+      - name: Inviting Questions
+        time: 3.0
+        play_gain: -10
+        say: |
+          As you sit in this radiant glow of curiosity, allow your mind to open up to the universe around you. 
+          What are you curious about? What questions arise within you? Remember, 
+          this is a space of non-judgment. There are no silly or unimportant questions here.
+          Let them surface freely, and acknowledge each one as it arises.
+
+      - name: Holding Curiosity
+        time: 4.0
+        play_gain: -10
+        say: |
+          For the last minute, hold all your questions and curiosity within you, feeling the energy they bring. 
+          Remember, you don't need to find answers now. Instead, appreciate the questions themselves, 
+          and the curiosity that brought them to light. Hold onto this feeling of curiosity; 
+          it's a powerful tool for discovery, learning, and personal growth.
+
+      # - name: END
+      #   time: 4.9
+      #   play: chime.wav
+

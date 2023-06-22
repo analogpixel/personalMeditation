@@ -1,0 +1,54 @@
+meditation:
+- description: A meditation journey into the realm of inspiration, helping you dissect and reconstruct your sources of inspiration to create something new and wonderful.
+  duration: 5
+  section:
+
+  - name: START
+    time: 0
+    play: backing_track.mp3
+    play_gain: -20
+
+  - name: Awakening Awareness
+    time: 0.1
+    play_gain: -10
+    say: |
+      As we begin this journey, I want you to close your eyes, take a deep 
+      breath, and envision the sources of inspiration that fill your world. 
+      Visualize them as luminous orbs, each one representing a different work 
+      of art or piece of music that stirs your soul.
+
+  - name: Dissection of Inspiration
+    time: 1
+    play_gain: -10
+    say: |
+      Now, let's reach out to the first orb, the first source of your 
+      inspiration. As you touch it, let it reveal itself to you. Let it 
+      unfold, showing you its parts, its intricacies, the elements that 
+      resonate deeply within you. Observe each part, each detail.
+
+  - name: Absorption
+    time: 2
+    play_gain: -10
+    say: |
+      As you comprehend the structure of this inspiration, breathe in its 
+      essence. Feel it seeping into your consciousness, integrating with 
+      your thoughts and your emotions. Now release it, letting it return to 
+      its original form, but leaving its impression within you.
+
+  - name: Reconstruction
+    time: 3
+    play_gain: -10
+    say: |
+      Now with these impressions ingrained in you, start reconstructing 
+      them in your mind's canvas. Rearrange them, mold them, let them 
+      interact and bind, creating a mosaic that is truly yours.
+
+  - name: Manifestation
+    time: 4
+    play_gain: -10
+    say: |
+      As the mosaic solidifies in your mind, take a deep breath and open 
+      your eyes. You have not merely replicated, but have birthed something 
+      new, something wonderful from your inspiration. Carry this creation 
+      with you as you continue your journey.
+

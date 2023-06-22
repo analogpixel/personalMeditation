@@ -1,0 +1,108 @@
+meditation:
+- description: Exploring, Creating, Learning - A Guided Journey
+  duration: 10
+  section:
+
+  - name: START
+    time: 0
+    play: long_backing_track.mp3
+    play_gain: -20
+
+  - name: Awakening to Exploration
+    time: 0.1
+    play_gain: -10
+    say: |
+      Welcome to this journey. From the moment you wake up, your day is a blank 
+      canvas, ready to be painted with the vibrant colors of exploration. Just as the 
+      sun casts its first light, let your mind be open to the endless possibilities of
+      the new day.
+
+  - name: Cultivating Creativity
+    time: 1
+    play_gain: -10
+    say: |
+      As the dawn breaks, imagine your creative energies stirring, responding to
+      the call of a new day filled with countless possibilities. Remember, you are an
+      artist and your life is your masterpiece. Let your creativity flow freely,
+      transforming each moment into a unique expression of your soul.
+
+  - name: Embracing Learning
+    time: 2
+    play_gain: -10
+    say: |
+      Look at every challenge, every task as a chance to learn something new. You are 
+      open, your mind receptive, ready to absorb wisdom from every experience. Each 
+      moment of your day becomes a fascinating voyage, each experience a lesson that
+      enriches your understanding of the world.
+
+  - name: Power of Attention
+    time: 3
+    play_gain: -10
+    say: |
+      The focus of your attention is a powerful tool, capable of delving deeply into 
+      your tasks. It allows you to extract hidden treasures from the seemingly mundane.
+      Imagine your attention as a bright beam of light, illuminating the depths of your
+      experiences, revealing the valuable gems within.
+
+  - name: A Day of Creation
+    time: 4
+    play_gain: -10
+    say: |
+      Throughout your day, you're sculpting your world with the hands of creation.
+      You are the artisan of your reality, shaping it moment by moment. Every thought,
+      every action is a stroke of your brush on the canvas of your day, adding color,
+      texture, and depth to your life's masterpiece.
+
+  - name: Exploring with Curiosity
+    time: 5
+    play_gain: -10
+    say: |
+      Driven by curiosity, each moment is an adventure, an opportunity to unveil
+      the unknown, to bring light to the hidden. Every question is a stepping stone,
+      leading you further into the exciting journey of discovery. Revel in the joy of
+      exploration, for it is the heart of all learning and creativity.
+
+  - name: Rekindling Energy
+    time: 6
+    play_gain: -10
+    say: |
+      Even when your energy seems to wane, you find a reservoir within you. It's a 
+      spark waiting to be kindled into a brilliant flame. This newfound strength
+      empowers you, fuels your pursuit to create, explore and learn more. Remember,
+      the only limit to your energy is your belief in its abundance.
+
+  - name: Unstoppable Learning
+    time: 7
+    play_gain: -10
+    say: |
+      You never stop learning. Every encounter is a lesson, every moment a classroom.
+      You are an eternal student, celebrating the joy of discovery. Soak up the 
+      wisdom of the day, for it nourishes your mind and shapes your understanding of
+      the world around you.
+
+  - name: The Joy of Anticipation
+    time: 8
+    play_gain: -10
+    say: |
+      As you prepare for rest, cherish the anticipation of a new day of creating, 
+      learning, and exploring. Your heart is alight with ideas for the dawn. Every
+      dream is a seed, and every new day is a fertile field in which to plant them.
+
+  - name: A Restful Slumber
+    time: 9
+    play_gain: -10
+    say: |
+      Now, surrender to the night. As you go to sleep, do so with a heart full
+      of gratitude for the day and eagerness for the wonders of tomorrow. In the 
+      stillness of the night, recharge your energies, so you may awaken refreshed,
+      ready for another day of exploration, creation, and learning.
+
+  - name: END
+    time: 10
+    play_gain: -10
+    say: |
+      You have completed this journey of creation, exploration, and learning. Breathe 
+      deeply, carrying this wisdom into every waking moment of your day. As the meditation
+      comes to a close, remember, every day is a fresh canvas, a new opportunity to 
+      explore, to create, to learn. Cherish it.
+

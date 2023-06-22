@@ -1,0 +1,28 @@
+create a five minute meditation on: <insert prompt here>
+
+the meditation should be output in the following yaml format:
+
+first output the starting yaml that looks like this:
+```yaml
+meditation:
+- description: <short description of meditation here>
+  duration: 5
+  section:
+
+  - name: START
+      time: 0
+      play: backing_track.mp3
+      play_gain: -20
+```
+
+then for each minute of the meditation, which starts at 0.1 and then counts up 1,2,3..etc,  you will create a section, which is a yaml list item, that looks like this:
+
+```yaml
+- name: <short title of section>
+      time:  <the minute of the meditation we are in>
+      play_gain: -10
+      say: |
+        <the text of the section goes here wrap lines to 80 characters>
+```
+
+output just the final yaml repsonse 

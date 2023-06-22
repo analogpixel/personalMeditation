@@ -1,0 +1,92 @@
+meditation:
+- description: A deep dive into relaxation and mind quieting, leading into alpha and theta brainwave states
+  duration: 30 
+
+  section:
+
+  - name: START
+    time: 0
+    play: long_backing_track.mp3
+    play_gain: -20
+
+  - name: tea
+    time: 0.1
+    say: | 
+      start the meditation by slowly enjoying your tea.  everytime you hear the chime take
+      a small drink of your tea.
+
+  - name: sip 1
+    time: 1
+    play: ding.wav
+
+  - name: sip 2
+    time: 3
+    play: ding.wav
+
+  - name: sip 3
+    time: 5
+    play: ding.wav
+
+  - name: sip 4
+    time: 7
+    play: ding.wav
+
+  - name: sip 5
+    time: 9
+    play: ding.wav
+ 
+  - name: finish tea
+    time: 9.5
+    say: |
+      now put your teacup down and prepare your body for the next 20 minute meditation.
+
+  - name: Introduction
+    time: 10 
+    play_gain: -10
+    say: |
+      As we begin this meditation, find a comfortable position. Close your eyes and 
+      allow your body to start to relax. Inhale deeply, hold for a moment, and 
+      exhale completely. Release any tension you may be holding.
+
+  - name: Quieting the Mind
+    time: 11
+    play_gain: -10
+    say: |
+      Begin to let your mind quiet. Imagine your thoughts as leaves floating on a 
+      stream, simply observing them as they pass without attachment. As your mind 
+      becomes more silent, your body will respond with deeper relaxation.
+
+  - name: Deep Relaxation
+    time: 12
+    play_gain: -10
+    say: |
+      Now, focus on the sensation of relaxation spreading through your body. From 
+      your toes to your head, every muscle is releasing its hold. Your body is heavy 
+      and sinking into the support beneath you.
+
+  - name: Entering Alpha State
+    time: 14
+    play_gain: -10
+    say: |
+      You are now entering an alpha state, a state of calm alertness. This state is 
+      often associated with creativity and reduced stress. Here, your mind is 
+      receptive and open. Imagine you are on the edge of sleep, but still conscious 
+      and aware.
+
+  - name: Transitioning to Theta State
+    time: 16
+    play_gain: -10
+    say: |
+      As we approach the final minute of this guided segment, begin to transition 
+      into a theta state. This is the state of deep relaxation and meditation, where 
+      learning, intuition, and memory are heightened. Continue to breathe and relax 
+      deeply.
+
+  - name: Maintaining Theta State
+    time: 17
+    play_gain: -10
+    say: |
+      You are now in a theta state. Continue to maintain this deep level of 
+      relaxation and meditation for the rest of the meditation. Let your consciousness 
+      float in this space, peaceful and serene.
+

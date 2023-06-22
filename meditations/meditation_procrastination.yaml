@@ -1,0 +1,62 @@
+meditation: 
+  - description: procrastination elimination
+    duration: 5 
+
+    section: 
+
+    - name: START
+      time: 0
+        #play: chime.wav
+      play: backing_track.mp3
+      play_gain: -20 
+      option: pulse_60bpm
+
+    - name: Grounding 
+      time: 0.1 
+      play_gain: -10 
+      say: | 
+        As we begin this meditation, find a
+        comfortable seated position. Take a deep breath in, then let it out.
+        Allow your mind to settle into the present moment. Recognize any feelings
+        of procrastination that may be lingering, but don't judge them. Simply
+        acknowledge their presence and allow them to be.
+          
+    - name: Visualization 
+      time: 1 
+      play_gain: -10 
+      say: | 
+        Now, visualize your
+        creative project in your mind. See it completed, in all its intricate
+        details. Experience the joy, satisfaction, and sense of accomplishment
+        that comes with its completion. Use this image as a beacon guiding your
+        energy and effort.
+        
+    - name: Energy Shifting 
+      time: 2 
+      play_gain: -10 
+      say: | 
+        As you breathe in,
+        imagine a warm, invigorating energy entering your body. This energy is
+        imbued with the power to dissolve procrastination. As you breathe out,
+        release any resistance, lethargy, or hesitation. 
+
+    - name: Encouraging Positive Affirmations 
+      time: 3 
+      play_gain: -10 
+      say: |
+        Repeat silently to yourself, I am fully capable of achieving my goals. I
+        am enthusiastic and energized to work on my creative projects. I am
+        releasing procrastination. Feel the power of these words resonate within
+        you, replacing any self-doubt with confidence.
+
+    - name: Transition to Action 
+      time: 4 
+      play_gain: -10 
+      say: | 
+        Now, as this
+        meditation comes to an end, slowly bring your awareness back to your
+        surroundings. Carry the energy and focus you've cultivated into your day.
+        Use it to dive into your creative projects with renewed enthusiasm and
+        energy. Remember, each step forward, no matter how small, is progress. 
+
+

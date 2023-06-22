@@ -1,0 +1,61 @@
+meditation:
+- description: Meditation on Mindful Selection of Information and Thoughts
+  duration: 5
+
+  section:
+
+  - name: START
+    time: 0
+    play: backing_track.mp3
+    play_gain: -20
+
+  - name: Introduction
+    time: 0.1
+    play_gain: -10
+    say: |
+      As you settle in comfortably, remind yourself of the importance of
+      mindful selectivity. Every piece of information, every thought that you 
+      let into your mind shapes your world. 
+
+  - name: Positive and Creative Selection
+    time: 1
+    play_gain: -10
+    say: |
+      Now, visualize a gatekeeper at the entrance of your mind. It's your
+      conscious choice. This gatekeeper only allows in thoughts that are
+      positive, creative, and inspiring. Let this be your practice for the
+      next few moments.
+
+  - name: Releasing Negativity
+    time: 2
+    play_gain: -10
+    say: |
+      Picture the gatekeeper gently sending away any negative thoughts or
+      gossip that arrive. As these thoughts approach, they are kindly but
+      firmly turned away. They have no place in the serene garden of your mind.
+
+  - name: Embracing Interesting Thoughts
+    time: 3
+    play_gain: -10
+    say: |
+      Allow your gatekeeper to warmly welcome thoughts and ideas that you
+      find interesting. These thoughts make your mind richer, add colour to
+      your inner world. Embrace them.
+
+  - name: Shaping Your World
+    time: 4
+    play_gain: -10
+    say: |
+      With this careful curation of thoughts and information, you are shaping
+      your world. Your mind is a garden of positivity, creativity, and 
+      fascination. Let yourself revel in the beauty it holds.
+
+  - name: Conclusion
+    time: 5
+    play_gain: -10
+    say: |
+      As this meditation concludes, remind yourself to carry this practice
+      into your daily life. The careful selection of what you let into your
+      mind is not a one-time act, but a continuous process. You have the power
+      to shape your world with your healthy mind.
+

@@ -1,0 +1,79 @@
+meditation:
+- description: Meditation for eating well
+  duration: 5
+  
+  section:
+    - name: START
+      time: 0
+      play: backing_track.mp3
+      play_gain: -20 
+      option: pulse_60bpm
+
+    - name: Grounding
+      time: 0.1
+      play_gain: -10
+      say: |
+        Begin by finding a comfortable place to sit or lay down, where you won't 
+        be disturbed for the next five minutes. Once you're settled, close your 
+        eyes and begin to take several deep breaths.
+
+    - name: Body Awareness
+      time: 1.0
+      play_gain: -10
+      say: |
+        Now, bring your attention to your body and the sensation of hunger. 
+        Think about the energy your body needs to function, the fuel it 
+        requires to thrive. Each breath you take, each beat of your heart, 
+        every movement and thought – they all need nourishment. Imagine a plate 
+        in front of you, filled with vibrant, fresh, and nourishing foods. 
+        You see a variety of colors – the deep green of spinach, the bright 
+        orange of carrots, the red of ripe tomatoes, the golden yellow of corn. 
+        With each inhale, visualize the nutrients from these foods being absorbed 
+        by your body. Imagine these foods giving you strength, energy, and vitality. 
+        As you exhale, release any thoughts of foods that do not serve your health 
+        and wellbeing.
+
+    - name: beans
+      time: 2.0
+      play_gain: -10
+      say: |
+        Now, bring your attention to the beans on your plate. These humble foods, 
+        packed with protein and fiber, fuel your body and keep it satiated. 
+        They are a key part of a healthy diet, promoting digestion and heart health. 
+        Imagine yourself taking a bite of these beans. Feel their texture, 
+        taste their earthy flavor. With each chew, sense the nutrients being released, 
+        ready to be absorbed by your body. As you swallow, visualize this food fueling 
+        your muscles, your brain, and every cell within you. Now shift your focus 
+        to the fish on your plate. Rich in omega-3 fatty acids, it supports your 
+        brain health and heart health. Picture yourself taking a bite, enjoying 
+        its unique flavor. As you chew and swallow, visualize these nutrients 
+        circulating throughout your body, providing energy, and supporting your overall health.
+
+    - name: fruits
+      time: 3.0
+      play_gain: -10
+      say: |
+        Next, focus on the fruits on your plate. The vibrant colors represent a 
+        variety of essential vitamins and minerals. Imagine tasting their sweetness, 
+        the burst of flavor in each bite. Picture the nutrients being absorbed, 
+        energizing your body, and promoting your immune system. As you continue breathing 
+        deeply, consider how all these foods work together to fuel your body. Each 
+        nutrient has its role, each food its purpose. They work in harmony to keep 
+        you healthy, energized, and strong.
+
+    - name: minds eye
+      time: 4.0
+      play_gain: -10
+      say: | 
+        In your mind's eye, see yourself continuing this habit of mindful, healthful eating. 
+        Visualize yourself choosing nutritious foods with love and respect for your body. 
+        Recognize that what you eat not only influences your physical health but also your 
+        mental and emotional wellbeing. As you bring this meditation to a close, carry 
+        this sense of appreciation and mindfulness towards your food and your body. 
+        Remember that each meal is an opportunity to nourish yourself. Take one more 
+        deep breath, savoring this moment of peace and calm. When you're ready, gently 
+        open your eyes, bringing your awareness back to your surroundings, 
+        carrying this mindful attitude towards your next meal. Remember, eating 
+        healthfully isn't about restriction, it's about nourishing your body with 
+        what it needs to thrive. So, as you move forward, make each meal a mindful 
+        act of self-care and gratitude for your body.
